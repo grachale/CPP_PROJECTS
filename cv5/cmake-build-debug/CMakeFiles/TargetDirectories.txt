@@ -1,0 +1,3 @@
+/Users/aleksejgrachev/Desktop/2nd Semester/PA2/progtest/cvicny ulohy/cv5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksejgrachev/Desktop/2nd Semester/PA2/progtest/cvicny ulohy/cv5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksejgrachev/Desktop/2nd Semester/PA2/progtest/cvicny ulohy/cv5/cmake-build-debug/CMakeFiles/cv5.dir
